@@ -6,6 +6,10 @@ MisskeyのいろんなカスタムCSS
 
 画面を180度回転する
 
+## blur5px.css
+
+画面がぼやける
+
 ## UserIcon-Rotation.css
 
 ユーザーアイコンをずっと回転させる
