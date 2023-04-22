@@ -1,0 +1,13 @@
+img.xraw1 {
+    animation: 5s linear infinite Gaming_Color;
+}
+
+@keyframes Gaming_Color {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}

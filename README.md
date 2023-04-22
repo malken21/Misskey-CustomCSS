@@ -6,6 +6,10 @@ MisskeyのいろんなカスタムCSS
 
 画面を180度回転する
 
-## rotationUserIcon.css
+## UserIcon-Rotation.css
+
+ユーザーアイコンをずっと回転させる
+
+## UserIcon-GamingColor.css
 
 ユーザーアイコンをずっと回転させる
