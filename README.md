@@ -1,2 +1,2 @@
-# Misskey-CustomCSSs
+# Misskey-CustomCSS
  MisskeyのいろんなカスタムCSS
