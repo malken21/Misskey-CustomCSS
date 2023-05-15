@@ -16,4 +16,8 @@ MisskeyのいろんなカスタムCSS
 
 ## UserIcon-GamingColor.css
 
-ユーザーアイコンをずっと回転させる
+ユーザーアイコンをゲーミングカラーにさせる
+
+## Note-GamingColor.css
+
+ノートをゲーミングカラーにさせる
