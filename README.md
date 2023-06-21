@@ -21,3 +21,7 @@ MisskeyのいろんなカスタムCSS
 ## Note-GamingColor.css
 
 ノートをゲーミングカラーにさせる
+
+## Hide-Renote.css
+
+Renoteを非表示にする
